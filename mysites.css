@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: #35D4A4;
+    padding: 20px;
+    margin-bottom: 25px;
+}
+
+.link-header {
+    text-decoration: none;
+    color: #35D4A4;
+    border: 3px solid #A63A00;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #A63A00;
+}
+
+main h1 {
+    color: #207E62;
+    text-align: center;
+}
+
+.text-big {
+    color: #207E62;
+    text-align: center;
+}
+
+li {
+    font-size: 20px;
+    color: #BF6230;
+}
+
+footer {
+    background-color: #5FD4B1;
+    margin-top: 15px;
+    padding: 25px;
+}
+
